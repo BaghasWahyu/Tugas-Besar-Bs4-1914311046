@@ -5,7 +5,7 @@ import os
 
 # sys.stdout = open("link.txt", "w")
 
-folder = "/content/Tugas-Besar-Bs4-1914311046/"
+folder = "./content/Tugas-Besar-Bs4-1914311046/"
 for filename in os.listdir(folder):
     if filename.endswith(".html"):
         fname = os.path.join(folder, filename)
