@@ -1,0 +1,1388 @@
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_getting_any_x.wav
+Hasil pengenalan : you've been getting any lightning overtime 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_20030700_wmd.wav
+Hasil pengenalan : we have to ask ourselves where are the weapons of mass destruction 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kennedy_moon.wav
+Hasil pengenalan : I believe that this nation should commit itself to achieving the goal before this decade is out of landing a man on the moon and returning him safely to the Europe 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_ouch.wav
+Hasil pengenalan : ouch 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_20030700_negative.wav
+Hasil pengenalan : there are a lot of people who 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_solve2.wav
+Hasil pengenalan : you cannot solve our problem and less you diagnose the problem 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_1993_insurance.wav
+Hasil pengenalan : every single American deserves to have health insurance and affordable 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_families.wav
+Hasil pengenalan : I'm tired of politicians to talk about family values and the value families 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_reason.wav
+Hasil pengenalan : I do have a compelling reason to consider running for president I want to twenty first century to be one of prosperity with a purpose 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_eavesdropping2.wav
+Hasil pengenalan : Congress and the authorization an authorization of the use of troops basically said the president out of our protectors well one way to protect us 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_better_off.wav
+Hasil pengenalan : is America 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_city_on_hill.wav
+Hasil pengenalan : we can meet our destiny to build a land here that will be for all mankind 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_apocalypse.wav
+Hasil pengenalan : the first woman to step to the microphone asked the president about a new book called American theocracy by political analyst Kevin Phillips he makes the point that members of your administration have reached out to prophetic first gens who see the war in Iraq and the rise of terrorism as signs of the apocalypse 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_fool_me_y.wav
+Hasil pengenalan : there's an old saying in Tennessee I know it's a tax it's probably going to see this that for me one 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kennedy_fear.wav
+Hasil pengenalan : and the death of the depression Franklin Roosevelt inspire the nation when he said the only thing we have to fear is fear itself today we say you know 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_every_day.wav
+Hasil pengenalan : every day I think about this every day I think about al Qaeda every day I think about protecting this country I mean every day 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/roosevelt_infamy.wav
+Hasil pengenalan : December seventh 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_not_leaving.wav
+Hasil pengenalan : I'm not leaving 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_200306_conspriacy.wav
+Hasil pengenalan : if I asked you straight up 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_crooked.wav
+Hasil pengenalan : I'm just beginning to fight here 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/jackson_jesus.wav
+Hasil pengenalan : Jesus was born with a hole in the sky bell 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_worth_it.wav
+Hasil pengenalan : may the Daily News of car bombs and kidnappings and brutal killings I can understand why many of our fellow citizens are now wondering if the entire mission was worth it I strongly believe our country is better off with Saddam Hussein out of power 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_anti-war.wav
+Hasil pengenalan : are you one of the anti war candidates 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger02.wav
+Hasil pengenalan : but for me it was very clear one point six million people in California sign to see the the the the the petition said you want to remove gray Davis and they basically said this one point six million people said we are mad as hell and we're not gonna take it anymore 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19960827_values.wav
+Hasil pengenalan : %HESITATION chorus Perrin's first and foremost are responsible for their children but we are all responsible for ensuring that children are raised in a nation that does in just about family values but apps in ways that values family 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_backbone.wav
+Hasil pengenalan : it has got to be the calcium in the back 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_eternal.wav
+Hasil pengenalan : actually a government bureaus the nearest thing to eternal life will ever see on this earth 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_greenhouse.wav
+Hasil pengenalan : we have done a lot 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_tear_down_wall_x.wav
+Hasil pengenalan : Mr Gorbachev tear down this 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/castro_dictators.wav
+Hasil pengenalan : what I like to ask you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_solve4.wav
+Hasil pengenalan : hi I am in the solving problems and %HESITATION convinced the stretch we've got is the best way to solve this problem 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_flip-flop.wav
+Hasil pengenalan : are you four have you ever flip flopped 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_nucular2.wav
+Hasil pengenalan : biological chemical and nuclear weapons 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_chinese_people.wav
+Hasil pengenalan : but again I want to say %HESITATION to the Chinese people into the leaders of China 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/gore_moveon_x.wav
+Hasil pengenalan : how to hear the incompetent and willful members of this bush Cheney administration humiliate our nation and our people in the eyes of the world and in the conscience of our own people out there that 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/rabin.wav
+Hasil pengenalan : let me say to you %HESITATION the Palestinians we're all the same to leave to get to all the same so in the same land we work seeing all the relatives and friends here before %HESITATION he's we would have gone for my lan weather patterns buried there Chandler and 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bush-clinton_debate_waffle.wav
+Hasil pengenalan : the big argument I have it the governor on this is this taking different positions on different issues trying to be one thing to one person here that's opposing the nafta agreement and then for it what we call waffling you can't turn the White House into the waffle house you gotta say what you're for the Washington Post ran a long editorial today saying they couldn't believe Mr bush was making character an issue and they said he was the greatest quote political show million for changing his position of all time now I don't want to get into the machine and Polish don't let 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_1992_tammy.wav
+Hasil pengenalan : no I'm not sitting here some little woman standing by my man like Tammy Wynette I'm sitting here because I love him and I respect him and I honor what he's been through and what we've been through together and you know if that's not enough for people then heck don't vote for him 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/edwards_hope.wav
+Hasil pengenalan : you tell them hello 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_taxes.wav
+Hasil pengenalan : if you have more money in your pocket 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_calling.wav
+Hasil pengenalan : it is the calling of our time 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_200306_pres.wav
+Hasil pengenalan : two thousand for the president 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_tax_cuts.wav
+Hasil pengenalan : this is not only no new taxes this is tax cuts so help me god 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_threat.wav
+Hasil pengenalan : isn't it worth every investment necessary to free the world from the threat of nuclear war 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_shot_x.wav
+Hasil pengenalan : there are moments you never erased from your memory 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_economics.wav
+Hasil pengenalan : if people have more money this man 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_bring.wav
+Hasil pengenalan : there are some who 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger_girlie-men.wav
+Hasil pengenalan : and to those critics well so pessimistic about our economy I would say don't be economic girly man 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_sell_food.wav
+Hasil pengenalan : in order to make sure people can find work this nation better better knock down trade barriers see what I think we're good at really good at 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980817_whatever.wav
+Hasil pengenalan : I must put it right 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/dean_oh_say.wav
+Hasil pengenalan : %HESITATION so %HESITATION and you see %HESITATION the dogs or the law I and %HESITATION %HESITATION %HESITATION %HESITATION %HESITATION %HESITATION %HESITATION %HESITATION %HESITATION %HESITATION 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_wmd.wav
+Hasil pengenalan : those weapons of mass destruction got to be somewhere 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_politics2.wav
+Hasil pengenalan : feel this town's full of politics B. would you say what they want to say 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/ford_pardon.wav
+Hasil pengenalan : hi Gerald R. Ford have granted a full free and absolute pardon unto Richard Nixon 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/thomas_hill_on_my_coke_x.wav
+Hasil pengenalan : %HESITATION it's Corp you big Kerr on my code 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_propaganda.wav
+Hasil pengenalan : in my line of work you got to keep repeating things over and over and over again 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/ventura_sharks.wav
+Hasil pengenalan : naturally when they when there's a little blood in the water they're going to circle like sharks 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_there_u_go.wav
+Hasil pengenalan : governor Reagan again typically is against such a proposal governor 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_conspiracy.wav
+Hasil pengenalan : this vast right wing conspiracy that has been conspiring against my husband since the day he announced for president 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_values.wav
+Hasil pengenalan : speaks for the universal back 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/perot_trick.wav
+Hasil pengenalan : this was not a way to paint on the dash and this is a trick on the American people 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_future.wav
+Hasil pengenalan : we don't fear the future because we're going to shape the future of the United States of America 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bush_read.wav
+Hasil pengenalan : read my new 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/perot_everything.wav
+Hasil pengenalan : if they feel that I am the person that they want to do this job then certainly I will continue to give them everything I have to get it done 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_god_bless.wav
+Hasil pengenalan : thank you and god bless you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger03.wav
+Hasil pengenalan : that is the messages from California all the way to the east coast all the politicians Republicans and Democrats alike to say to them %HESITATION your job for the people and do it well although as you out I still love you still save you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_20030700_worst.wav
+Hasil pengenalan : what are your best and worst qualities as a politician 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/obey_asshole.wav
+Hasil pengenalan : the gentleman yield I went after I finish my statement 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980121_not_true.wav
+Hasil pengenalan : in a civil deposition about her having had an affair with you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger_tax.wav
+Hasil pengenalan : from the time to get up in the morning and flush the toilet 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_defend_freedom.wav
+Hasil pengenalan : history has given us a unique opportunity to defend freedom and we're going to seize the moment and do it 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+list index out of range
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/dean_rant_x.wav
+Hasil pengenalan : you know something not only are we going to New Hampshire we're going to South Carolina and Oklahoma 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980817_dodge.wav
+Hasil pengenalan : our country has been distracted by this matter for too long 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_authority_security.wav
+Hasil pengenalan : the United States of America has the sovereign authority to use force in assuring its own national security 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_steady.wav
+Hasil pengenalan : in the midst of times I don't need people around me who were not steady and it just kind of a hand wringing added to it I don't like it 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_life.wav
+Hasil pengenalan : I look at life as a series of opportunities %HESITATION to make this world a better place 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/thomas_hill_silver.wav
+Hasil pengenalan : what was the content of what he said this was a reference to an individual who 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980126_allegations.wav
+Hasil pengenalan : these allegations are false and I need to go back to work for the American 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_not_you.wav
+Hasil pengenalan : you said we're headed to war in Iraq I don't know why you say that I hope we're not headed toward Iraq 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_2002_lewinsky1.wav
+Hasil pengenalan : but what is the biggest misconception do you think people have about you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/ventura_expect.wav
+Hasil pengenalan : you should fully expect the unexpected 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/thomas_assassin.wav
+Hasil pengenalan : senator I would have preferred an assassin's bullet 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_too_big.wav
+Hasil pengenalan : our government is too big and it spends too much 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_most_liberal.wav
+Hasil pengenalan : are you the number one most liberal senator in the Senate no 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980817_goodnight.wav
+Hasil pengenalan : thank you for watching 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/rumsfeld_finger.wav
+Hasil pengenalan : we have done so much in the last two years and it doesn't happen by standing around with your finger in your ear hoping everyone thinks that that's nice 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980817_indeed.wav
+Hasil pengenalan : I did not volunteer information 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_senate_testimony_x.wav
+Hasil pengenalan : I would like to talk 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/haig_in_control.wav
+Hasil pengenalan : now I am in control here in the White House 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/carter_my_name.wav
+Hasil pengenalan : my name is Laura 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kennedy_we_choose.wav
+Hasil pengenalan : we choose to go to the mold 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/gore_time_2_go.wav
+Hasil pengenalan : and now my friends in a phrase I want to dress others it's it's time for me to go thank you and good night 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_remember.wav
+Hasil pengenalan : we will 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980817_misled.wav
+Hasil pengenalan : I know that my public comments and my silence about this matter %HESITATION the false impression 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_best_days.wav
+Hasil pengenalan : American user yes you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/jackson_values.wav
+Hasil pengenalan : there is value in value is 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_medmal.wav
+Hasil pengenalan : to protect the doctor patient relationship 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/nixon_always_remember.wav
+Hasil pengenalan : always remember 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/nixon_no_obstruction.wav
+Hasil pengenalan : and it all of my years of public life I have never obstructed justice 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_frightened_not.wav
+Hasil pengenalan : hi I'm not frightened by what lies ahead and I don't believe the American people are frightened by what 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_solve10.wav
+Hasil pengenalan : the best way to lead and the best way to solve problems is this the focus on a set of principles and do what you think is right 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger_lesson.wav
+Hasil pengenalan : I have absorbed my defeat and I've learned my lesson 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_flip-flop2.wav
+Hasil pengenalan : I'm wishy washy I'm a flip flop for 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_87_x.wav
+Hasil pengenalan : I actually did vote for the eighty seven billion dollars before I voted against it 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_1992_dope.wav
+Hasil pengenalan : I experimented with marijuana Thompson and I've been watching 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_solve9.wav
+Hasil pengenalan : I feel it is an honor to be in this position and %HESITATION and %HESITATION %HESITATION 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_solve3.wav
+Hasil pengenalan : we got a problem and here's some ideas on how to solve it 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_help5.wav
+Hasil pengenalan : we can do better 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger_terrorism.wav
+Hasil pengenalan : and ladies and gentlemen if you believe that you must be PO's and relentless and terminate terrorism thank you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_war.wav
+Hasil pengenalan : he didn't give meaning to the words that mean a lot to a lot of us going to war as a last resort I think the United States of America should never go to war the way this present took us to war you don't go to work because you want to go to work because you have to 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_eavesdropping1.wav
+Hasil pengenalan : do I have the legal authority to do this 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_tax_gap.wav
+Hasil pengenalan : there is a tax gas 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger01.wav
+Hasil pengenalan : I decided that %HESITATION 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/churchill.wav
+Hasil pengenalan : the staff %HESITATION brace ourselves to %HESITATION do you get 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980126_did_not.wav
+Hasil pengenalan : I did not have sexual relations with that woman 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_liberal.wav
+Hasil pengenalan : last year the vice president launched a new effort to make communities more livable livable 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_health_care_right.wav
+Hasil pengenalan : no American ought to be struggling to be able to have health Kerr you don't to be a right that we make accessible and affordable but every 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_sovereign.wav
+Hasil pengenalan : what do you think tribal sovereignty means in the truck in the twenty first century and how do we resolve conflicts between tribes and the federal and state governments %HESITATION travel somebody means that it's sovereign 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980817_business.wav
+Hasil pengenalan : it's nobody's business but ours 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/barry_get_out.wav
+Hasil pengenalan : get out of my face 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+list index out of range
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980817_regret.wav
+Hasil pengenalan : I deeply regret that 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_evil2.wav
+Hasil pengenalan : the aggressive impulses of an evil empire they are the focus of evil in the modern world 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_grouchy2.wav
+Hasil pengenalan : thanks I'm grouchy I'm grouchy 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_crusade.wav
+Hasil pengenalan : the crusade for freedom is your chance in mind if I come 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/perot_nobody2.wav
+Hasil pengenalan : nobody takes responsibility for any 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger04.wav
+Hasil pengenalan : I do not have files or any special interest I have plenty of money no one can pay ME office 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger_politician.wav
+Hasil pengenalan : you know I know way up here to the podium 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/nixon_burn_tapes.wav
+Hasil pengenalan : are you sorry I didn't during the time you know interestingly enough everybody in Europe that I talked to said why didn't you bring tapes and the answer is I probably should have 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/rumsfeld_said.wav
+Hasil pengenalan : I believe what I said yesterday 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger_sick_tired.wav
+Hasil pengenalan : people are sick and tired of the politicians 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_shove_it.wav
+Hasil pengenalan : we create 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/churchill_riddle.wav
+Hasil pengenalan : give you the red door wrapped in a mystery inside an enigma 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_verify.wav
+Hasil pengenalan : nobody I know probably %HESITATION trust but verify 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_199809_sorry.wav
+Hasil pengenalan : thank you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_north_korea.wav
+Hasil pengenalan : hello 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_make_day2.wav
+Hasil pengenalan : I have only one thing to say to the tax increase use 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_military.wav
+Hasil pengenalan : in America needs a military well abreast and brightest are proud to serve and proud to stay 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/carter_iraq.wav
+Hasil pengenalan : they American people have two basic commitments at a pretty universal one is that we want Iraq to eliminate all weapons of mass destruction and secondly would like to do this peacefully 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bentson_no_jack.wav
+Hasil pengenalan : senator you're no Jack Kennedy 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_pretzel.wav
+Hasil pengenalan : yeah my mother is listening mother I should have listened to you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_age_x.wav
+Hasil pengenalan : I will not make agent issue of this campaign I am not going to exploit for political purposes my opponent's youth and inexperience 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_200101_funny.wav
+Hasil pengenalan : you know it's bad enough that I had to give up being present I've got a big give up being the funny one in my family I don't 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/baker_arduous.wav
+Hasil pengenalan : this is been a long 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_2002_lewinsky4.wav
+Hasil pengenalan : were you with the present times when intimately and he would also be conducting affairs of state the story that he was on the phone talking to congressman 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_strength.wav
+Hasil pengenalan : to the strength of America is not 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_ketchup.wav
+Hasil pengenalan : %HESITATION one final question because I really do want %HESITATION and again you you don't have to answer it if if you don't want to receive personal is it true that every time I use catch up your wife gets a nickel 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_ownership1.wav
+Hasil pengenalan : to give every American a stake in the promising future of our country 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/nixon_kick.wav
+Hasil pengenalan : and if you don't when you kick yourself in the pot and be sure you don't make the same mistakes again 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/dean_monolithic.wav
+Hasil pengenalan : the very friendly 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_think_beyond.wav
+Hasil pengenalan : so that's just some ideas and I S. 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_what_mean.wav
+Hasil pengenalan : what does it mean 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980817_memory.wav
+Hasil pengenalan : my memory if I remember I'll tell you what I remember and I'm frankly quite sure although I have no specific number I'm quite sure I don't remember that means there could have been I can't say with any certainty I just don't remember but it's quite possible 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_obgyn.wav
+Hasil pengenalan : Germany good job to get out of business 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/touch_the_face_x.wav
+Hasil pengenalan : the crew of the space shuttle challenger on orders for the manner in which they live their lives 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_freedom.wav
+Hasil pengenalan : what freedom takes hold 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bush_never_once.wav
+Hasil pengenalan : I never once said not bad %HESITATION 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_tyrant_gone.wav
+Hasil pengenalan : no more poison factories 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/stockdale_who_why.wav
+Hasil pengenalan : and we'll Stockdale your opening statement please Sir 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_explain_not.wav
+Hasil pengenalan : I do not need to explain why I say thanks 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_1997_lewinsky_dress.wav
+Hasil pengenalan : that I can hold on to address for ten fifteen years with I I don't trust the people around him and I just want you to have that for you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/rumsfeld_buck_stops.wav
+Hasil pengenalan : in recent days has been a a good deal of discussion about who bears the responsibility for this terrible activities took place at Abu Ghraib prison 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_campaign.wav
+Hasil pengenalan : I campaign the way I campaign and I don't get coached I don't have you know kind of Hollywood people coming down I don't have an adviser on my staff trying to convert me into some kind of alpha male I don't change my clothes I don't dye my hair I'm just trying to be 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/perot_all_over_news.wav
+Hasil pengenalan : I hope it'll be all over television radio and newspapers 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/nixon_resign.wav
+Hasil pengenalan : I shall resign the presidency effective at noon tomorrow 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_popular.wav
+Hasil pengenalan : if you have a president who worries about polls it means you're could have a president who makes decisions based upon the polls 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/dean_security.wav
+Hasil pengenalan : %HESITATION when you know security security please out front right here security 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/roosevelt_fear.wav
+Hasil pengenalan : let me %HESITATION search lights for %HESITATION believe that's the only thing we have to %HESITATION 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger_kennedys.wav
+Hasil pengenalan : first of all let me tell you that they can it is it's always try for twenty six years out to make me a good Democrat it didn't Brooks 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_politics.wav
+Hasil pengenalan : I guess politics never stops 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger05.wav
+Hasil pengenalan : when I go to Sacramento I will pump up Sacramento 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_c_students.wav
+Hasil pengenalan : and to the C. students I say you too can be president of the United 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_solve5.wav
+Hasil pengenalan : so we want to solve all problems diplomatically that's our first option 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/agnew_nabobs.wav
+Hasil pengenalan : more than our share of the nattering nabobs of negativism 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_uranium.wav
+Hasil pengenalan : the British government has learned that Saddam Hussein recently sought significant quantities of uranium from Africa 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/elders_masturbation.wav
+Hasil pengenalan : standing guard to masturbation I think that that is something that %HESITATION eight that's a part of human sexuality and it is a part of something that perhaps should be taught 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_1993_not_accused.wav
+Hasil pengenalan : I still hope that it gives me the wrong because I haven't done anything wrong and I'm not gonna do anything wrong 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/helms_old_fashioned.wav
+Hasil pengenalan : I'm whole fashion that I believe in horse with 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_2002_lewinsky3.wav
+Hasil pengenalan : what is it as was been reported one sided and that you with the giver and if I even said that the deposition and he was the taker 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_talk.wav
+Hasil pengenalan : and you can pay attention to her or you can 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_bring2.wav
+Hasil pengenalan : %HESITATION saying bring it on 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_evil_men.wav
+Hasil pengenalan : the great threat to civilization is that a few evil man will multiply their murders and gain the means to kill on a scale equal to their hatred 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_problems.wav
+Hasil pengenalan : one reason there's there's my problem is is because we've confronted him 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_1992_change.wav
+Hasil pengenalan : I think we all agree that we have to change the way the government works let's make it smaller less costly and smarter 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19960827_village.wav
+Hasil pengenalan : for bill and me there has been no experience more challenging more rewarding and more humbling than raising our daughter 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_1997_good.wav
+Hasil pengenalan : hi David 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_everything.wav
+Hasil pengenalan : everything is doing everything we can 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/thomas_silver.wav
+Hasil pengenalan : did you ever use the term long dong silver in conversation with professor hill had you know senator 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/mandela.wav
+Hasil pengenalan : with 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_ronald_x.wav
+Hasil pengenalan : time Ronald Reagan 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bush_prudent1.wav
+Hasil pengenalan : much good 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/gore_internet.wav
+Hasil pengenalan : %HESITATION during my service in the United States Congress so I took the initiative in creating the internet 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_marriage.wav
+Hasil pengenalan : merit is the most fundamental institution of civilization 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/nixon_not_crook.wav
+Hasil pengenalan : hi welcome this kind of examination because people have got to know whether or not they're present or so well I'm not a crook 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_solve7.wav
+Hasil pengenalan : problems don't get solved overnight 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_word.wav
+Hasil pengenalan : the word of the president I'd states is good enough for me 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/sharpton_40_acres.wav
+Hasil pengenalan : did you have questions 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/marshall_plan.wav
+Hasil pengenalan : fifty nine states and do whatever it is able to do 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_support_w.wav
+Hasil pengenalan : I said at the time I would have preferred if we had given diplomacy a greater opportunity but I think it was the right decision to disarm Saddam Hussein and when the president made the decision I supported them and I support the fact that we did disarm and 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_ground.wav
+Hasil pengenalan : two thousand seven hundred and sixty five days of our administration 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_200307_conspiracy.wav
+Hasil pengenalan : there isn't any doubt that from the very beginning of his presidency there was an effort to undermine and delegitimize %HESITATION his efforts and I deeply regret what I call the politics of personal destruction 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_ownership2.wav
+Hasil pengenalan : yeah that government ought to promote an ownership society 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_warmed_up.wav
+Hasil pengenalan : just getting warmed up kind of 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980817_is.wav
+Hasil pengenalan : it depends upon what the meaning of the word is 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger_peoples.wav
+Hasil pengenalan : I promise you that I will be the people's governor 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_hurt.wav
+Hasil pengenalan : it is important to me that everybody who has been hurt 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_problem.wav
+Hasil pengenalan : government is not the solution to our problem government is the problem 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_liberty.wav
+Hasil pengenalan : men and women in every culture need liberty like they need food 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/perot_drew_equally.wav
+Hasil pengenalan : you elected Clinton in the sense well again that is incorrect go get all of the data from all of the polls and you were saying that I drew equally from both candidates 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_reporting_4_doodie.wav
+Hasil pengenalan : thank you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_worth_it2.wav
+Hasil pengenalan : decision to remove Saddam Hussein from power was controversy 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_bring_it.wav
+Hasil pengenalan : %HESITATION George Bush wants to make national security the central issue of this campaign 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/johnson_wont_seek.wav
+Hasil pengenalan : I shall not see 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_solve8.wav
+Hasil pengenalan : you might remember early on in my administration I talked about the axis of evil step one of solving problems is to clearly identify a problem 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/elders_blather.wav
+Hasil pengenalan : I think the president's behaviors that spreads behavior to you know to the president I think of we have Perrin we have to do our job our Perrin our children look it up we're all responsible this whole country 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_america.wav
+Hasil pengenalan : America is back 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger_badly.wav
+Hasil pengenalan : yes 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_homo.wav
+Hasil pengenalan : what's your view on homosexuality yeah I I I am mindful that we're all sinners 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_certain.wav
+Hasil pengenalan : and this much is certain 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_biggest_job.wav
+Hasil pengenalan : my biggest job 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bush_god_bless.wav
+Hasil pengenalan : thank you god bless you and god bless the United States of America 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/jackson_bushes.wav
+Hasil pengenalan : our 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980817_wrong.wav
+Hasil pengenalan : C. indeed I did have a relationship with ms Lewinsky that was not appropriate in fact it was wrong 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/nixon_no_profit.wav
+Hasil pengenalan : I have never profited never profited from public service I've earned every cent 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_solve.wav
+Hasil pengenalan : I went to Washington to solve problems 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kerry_worse.wav
+Hasil pengenalan : believe it or not I've been through worse 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_20030700_right.wav
+Hasil pengenalan : everything we said was right we don't have to answer to anybody 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bush_prudent2.wav
+Hasil pengenalan : I pride myself in a prudent man and I believe that patience is a virtue but I understand that politics is for some a game and it sometimes the game is to stop all progress and then deprive the lack of improvement but let me tell you let me tell you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_dictator.wav
+Hasil pengenalan : this were a dictatorship would be a heck of a lot easier 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_200003_genome.wav
+Hasil pengenalan : we're here to celebrate the completion of the first survey of the entire human genome 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_200011_spoken.wav
+Hasil pengenalan : the American people have now spoken about it's gonna take a little while to determine exactly what they said 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_feel_pain.wav
+Hasil pengenalan : I feel your pain 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/perot_clean_out.wav
+Hasil pengenalan : let's pick up a shovel clean out the barn 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_20060116_plantation.wav
+Hasil pengenalan : we have a culture 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/carter_lie.wav
+Hasil pengenalan : I never tell us 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/carter_running.wav
+Hasil pengenalan : my name is Jimmy Carter and I'm running for president 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_nucular1.wav
+Hasil pengenalan : nuclear power plants 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_eavesdropping4.wav
+Hasil pengenalan : if there are people inside our country who were talking without patent we want to know about it because we will not sit back and wait to be hit again 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_laws2.wav
+Hasil pengenalan : we're a nation of laws 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_wait.wav
+Hasil pengenalan : wait wait wait wait wait wait 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_2002_lewinsky2.wav
+Hasil pengenalan : I was as I was a twenty two year old foolish kid and I I think I there was this charismatic powerful man who who is standing there showing interest in me and I was attracted to him and I I think I was swept up 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_kennedy.wav
+Hasil pengenalan : no 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/nixon_kick_around.wav
+Hasil pengenalan : you don't have Nixon to kick around anymore 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_food.wav
+Hasil pengenalan : here 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_words.wav
+Hasil pengenalan : I think words mean different things to different people 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_worth_it3.wav
+Hasil pengenalan : %HESITATION the decision to remove Saddam Hussein was the right decision and I'm actually convinced it was when I get down is when I %HESITATION %HESITATION you know when I've I've I've I've realized it sounds greeting mom or wife or dad or you know is %HESITATION it's lost a loved one and that's %HESITATION that's that's the agony of war and %HESITATION and I I just I met with enough families you know how it's broken %HESITATION Hart %HESITATION to lose a loved one %HESITATION I made the right decision and %HESITATION and we will succeed in Iraq and we decide to quit and %HESITATION and success in Iraq well well well really important for the world's important for there to be a %HESITATION democracy in the heart of the Middle East 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_solve6.wav
+Hasil pengenalan : the United States is in the lead 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_20030700_term_limits.wav
+Hasil pengenalan : I don't believe in term limits %HESITATION I think in a democracy people should be able to vote for whom they want 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_stem_cells.wav
+Hasil pengenalan : embryonic stem cell research requires a destruction of life but to create a stem cell 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bush_not_gonna_x.wav
+Hasil pengenalan : is Dana Carvey would say not gonna do it wouldn't be prudent 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/powell_threshold.wav
+Hasil pengenalan : with respect to reports that somehow we are thinking of preemptively going after somebody or that in one editorial I read this morning we have lowered the nuclear special we have done no such thing 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kennedy_we_have.wav
+Hasil pengenalan : we have the power to make this the best generation of man time in the history of the world 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_divtax.wav
+Hasil pengenalan : C. by ending double taxation of dividends we will increase the return on investment 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_say_anything.wav
+Hasil pengenalan : guy's gonna say anything to get elected I ever read the newspaper yesterday were all of a sudden he's for campaign funding reform 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushjeb_lawyers.wav
+Hasil pengenalan : I am I am I am disgusted by the lawyers it's just %HESITATION I make a sign of the times that everything has to get lawyer it up in our countries it's a civil society is really under attack and %HESITATION I think people will reject it 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger_oscar.wav
+Hasil pengenalan : what a greeting 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_texas.wav
+Hasil pengenalan : I come from Texas 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_laws3.wav
+Hasil pengenalan : we're a nation of laws you gotta pull the loss 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_nucular3.wav
+Hasil pengenalan : using chemical biological or one day nuclear weapons 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_read_lips2.wav
+Hasil pengenalan : the real estate was a read my lips' promise in the first place you just can't promise something like that just to get elected if you know there's a good chance of circumstances may overtake you I will not raise taxes on middle class to pay for these programs 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980817_dodge2.wav
+Hasil pengenalan : now it is time in fact it is past time to move on 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_chechnya.wav
+Hasil pengenalan : can you name the president of Chechnya no can you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980902_mistake.wav
+Hasil pengenalan : I have a 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_eavesdropping3.wav
+Hasil pengenalan : the program's legal 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/edwards_chew.wav
+Hasil pengenalan : the present actually has to be able to do two things at once this president thinks his presidency is only about the war on terrorism only about national security those things are critical for a commander in chief but there's a lot the president's not doing about jobs lost about a health care crisis in this country the present United States S. they actually be able to walk and chew chewing gum at the same time 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_happy_birthday_x.wav
+Hasil pengenalan : Happy Birthday 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+list index out of range
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/kennedy_ask_not.wav
+Hasil pengenalan : not what your country can do for you 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_bomb_x.wav
+Hasil pengenalan : my fellow Americans I'm pleased to tell you today that I've signed legislation that will outlaw Russia forever we begin bombing in five minutes 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_intelligence.wav
+Hasil pengenalan : let me talk about the intelligence in Iraq first of all %HESITATION we also we'd find stockpiles of weapons we may still find 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_hussein_911.wav
+Hasil pengenalan : we have no evidence that Saddam Hussein was involved with the September the eleventh 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/clinton_19980817_first.wav
+Hasil pengenalan : I can only tell you I was motivated by many factors first by a desire to protect myself from the embarrassment of my own conduct 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_hussein_911a.wav
+Hasil pengenalan : I don't want to 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger_more.wav
+Hasil pengenalan : we need more roads more hospitals more schools more neurosis more teachers more police more file more water more energy more ports more more more 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/bushw_dont_understand.wav
+Hasil pengenalan : it's just %HESITATION you know it's just that that's I just don't understand %HESITATION this that make any sense to me 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/schwarzenegger_everyone.wav
+Hasil pengenalan : everyone Democrats the public in general it makes no difference to me I will represent everybody 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_pro.wav
+Hasil pengenalan : no where in the constitution does it say that in order to be a governor of California you have to be a professional politician and I am not 
+                                                                                                    
+Sedang mengenali audio
+----------------------------------------------------------------------------------------------------
+Nama File        : /content/Tugas-Besar-Bs4-1914311046/wavfile/reagan_announcement.wav
+Hasil pengenalan : I am here to announce my intention to seek the Republican nomination for president of the United
